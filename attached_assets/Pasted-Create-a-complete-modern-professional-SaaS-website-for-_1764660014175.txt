@@ -1,0 +1,164 @@
+Create a complete, modern, professional SaaS website for **ThynxAI**, designed in the same style as the Effica site (effica.framer.ai).
+
+Match Effica’s:
+• clean, minimal, premium light-mode aesthetic  
+• large whitespace  
+• soft grey/white UI  
+• refined typography  
+• simple icons  
+• section spacing  
+• overall layout structure  
+• conversion-focused UX  
+• small, smooth animations  
+• honest business tone  
+• clear service messaging  
+
+Do NOT copy Effica’s content or branding.  
+Use the Effica “style” only — structure, simplicity, professionalism, clarity.
+
+The website is for **ThynxAI – The Operating System of Technology**, offering 4 core services:
+
+1. **Idea Lab — Your Personal AI Consultant**  
+   For users with innovative ideas.  
+   AI guides them through feasibility, requirements, limitations, advantages, estimated cost, recommended team structure, and generates a full “Idea Lab Report.”
+
+2. **Thynx Studio — Your Personal Technology Officer**  
+   Helps users hire the right people for their project.  
+   AI integrates with LinkedIn/Fiverr/Indeed/Naukri to find matching talent.  
+   Estimates employee cost, project timelines, builds Agile task boards like Jira, issue tracking, bug workflows, and manages transparent payments.
+
+3. **Thynx Repo — Your Personal AI Repository**  
+   A GitHub/GitLab-style in-house repository for hosting code, version control, branches, commits, collaborative development, and secure team access.
+
+4. **Thynx Free Market — Zero Commission Marketplace**  
+   A marketplace where people can list software, apps, websites, or source code.  
+   Creators keep 100% of earnings.  
+   Product previews, transparent delivery, and direct payments.
+
+---
+
+### STYLE REQUIREMENTS (Follow exactly)
+• Light mode only — white backgrounds, gentle grey UI, soft shadows.  
+• Very similar spacing, layout, and typography hierarchy as Effica.  
+• Use subtle animations — fade-ins, slide-ups, number counters, card hovers.  
+• Maintain professional B2B tone.  
+• Use simple outlined icons — no heavy illustrations.  
+• Design must feel clean, calming, trustworthy, and modern.  
+• Round corners, soft edges, smooth sections.  
+• Keep everything conversion-optimized.
+
+---
+
+### PAGE SECTIONS TO RECREATE (Effica-style)
+
+**1. Hero Section**  
+Layout like Effica:  
+• Big headline  
+• Clear subheadline  
+• 1–2 CTAs  
+• Light, clean background  
+• Subtle floating UI elements  
+• Social proof badges (optional)
+
+For ThynxAI, use:  
+Headline: “The Operating System of Technology”  
+Subheadline: “From idea to launch — powered by AI-driven innovation.”  
+CTAs: “Start with Idea Lab” + “Explore ThynxAI”
+
+---
+
+**2. Services Overview Section**  
+Four equal cards like Effica’s “What We Offer” section.  
+Simple icons, short text.
+
+Use:  
+• Idea Lab  
+• Thynx Studio  
+• Thynx Repo  
+• Thynx Free Market
+
+---
+
+**3. Detailed Services Sections**  
+Each service gets a full-width section like Effica’s service blocks:  
+• left side text  
+• right side UI mockup/graphic  
+• clean white spacing  
+• short benefit bullets  
+• small illustrations or UI blocks
+
+Maintain Effica’s layout exactly, but replace with ThynxAI content.
+
+---
+
+**4. How It Works**  
+A 3-4 step timeline (like Effica’s process flow).  
+Simple, linear steps: Idea → Build → Manage → Launch.
+
+---
+
+**5. Why Choose ThynxAI**  
+Same style as Effica’s “Why Companies Choose Us”:  
+• Clear bullet benefits  
+• Small icons  
+• Clean grey container background
+
+---
+
+**6. Case Studies / Outcomes**  
+Borrow Effica-style stat cards:  
+• hours saved  
+• cost saved  
+• time to market improved  
+• productivity boosted  
+Use neutral numbers.
+
+---
+
+**7. Pricing (Effica-Style Cards)**  
+Simple, clean pricing cards with rounded corners.
+
+---
+
+**8. Testimonials**  
+Minimalist card slider similar to Effica’s.
+
+---
+
+**9. FAQ Section**  
+Accordion style, Effica-inspired.
+
+---
+
+**10. CTA Footer Section**  
+Large banner with clear CTA.
+
+---
+
+**11. Clean Footer**  
+Minimal links, same spacing as Effica.
+
+---
+
+### TONE & CONTENT REQUIREMENTS
+• Professional but friendly.  
+• No jargon overload.  
+• Clear value-focused copywriting.  
+• All benefits written in plain English.  
+• Keep paragraphs short and readable.  
+• Use Effica’s tone as inspiration.
+
+---
+
+### FINAL OUTPUT REQUIRED
+Provide:  
+• Full website structure  
+• All section content  
+• Headings, subheadings, microcopy  
+• Icon suggestions  
+• Layout guidance (Effica style)  
+• Animation descriptions  
+• Spacing and typography instructions  
+• Color palette (white/grey clean theme)
+
+The final design must feel extremely similar to **Effica’s minimal, clean SaaS website style**, but fully customized for **ThynxAI** and its 4 services.
